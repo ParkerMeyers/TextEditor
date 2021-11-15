@@ -3,8 +3,6 @@
 
 ![Code Size](https://img.shields.io/github/languages/code-size/ParkerMeyers/TextEditor?style=for-the-badge) ![Total Lines](https://img.shields.io/tokei/lines/github/ParkerMeyers/TextEditor?style=for-the-badge) ![License](https://img.shields.io/github/license/ParkerMeyers/TextEditor?style=for-the-badge)
 
-A super simple JavaFX Program to introduce myself with JavaFX
-
 ## License
 
 MIT License
