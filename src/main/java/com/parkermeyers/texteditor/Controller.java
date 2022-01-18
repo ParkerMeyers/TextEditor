@@ -28,7 +28,9 @@ public class Controller implements Initializable {
         fileChooser
                 .getExtensionFilters()
                 .addAll(
-                        new FileChooser.ExtensionFilter("Text", "*.txt"),
+                        new FileChooser.ExtensionFilter("TextEditor (.TXTEDTR)", "*.txtedtr"),
+                        new FileChooser.ExtensionFilter("HTML (.html)", "*.html"),
+                        new FileChooser.ExtensionFilter("TXT (.txt)", "*.txt"),
                         new FileChooser.ExtensionFilter("All Files", "*.*"));
     }
 
